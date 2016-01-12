@@ -224,24 +224,17 @@ function create_config( )
     sudo_users = {37194141,174665816,0,tonumber(our_id)},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[Telezeus v2
-list of sudo 
+    about_text = [[TeleZEUS
+ مشخصات کلی
+ 
+مدیر اول
+@larnog
+مدیر دوم
+@ananymous0
 
 
-
-Admins
-@larnog [Founder]
-@imandaneshi [Developer]
-
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
-
-Our channels
-@teleseedch [English]
-@iranseed [persian]
+کانال های پهتیبانی
+@zeus_ch [فارسی]
 ]],
     help_text_realm = [[
 Realm Commands:
